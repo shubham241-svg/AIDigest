@@ -232,9 +232,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Project Link**: [https://github.com/yourusername/ai-digest](https://github.com/yourusername/ai-digest)
-- **Email**: your.email@example.com
-- **Twitter**: [@yourusername](https://twitter.com/yourusername)
+- **Project Link**: [https://github.com/shubham241-svg/AIDigest](https://github.com/yourusername/ai-digest)
+- **Email**: shubh241gupta@gmail.com
+
 
 ---
 
@@ -242,6 +242,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **⭐ Star this repository if you find it helpful!**
 
-Made with ❤️ by the AI Digest Team
+Made with ❤️ by the AI Digest Team(Owner: Shubham Gupta)
 
 </div>
